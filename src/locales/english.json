@@ -1,0 +1,29 @@
+{
+  "Biography": {
+    "bio1": "My name is U.Birunthan. ",
+    "bio2": "I am a React developer graduating from ",
+    "bio3": "Uki Coding School ",
+    "bio4": "cohort 7 (Uki cohort 2022). ",
+    "bio5": "I am familiar with the MERN framework which includes ",
+    "bio6": "MongoDB, Express, React and node.js.",
+    "bio7": "I am looking to join an interesting position where I can apply my skills and take them to the next level. ",
+    "bio8": "",
+    "bio9": "You can reach out via ",
+    "bio10": "",
+    "email": "email."
+  },
+  "Hero": {
+    "title": "U.Birunthan.",
+    "subtitle": {
+      "reactDev": "MERN developer",
+      "cricketPlayer": "Cricket player",
+      "hobbyPhotographer": "Hobby photographer",
+      "content Writter": "Content Writer",
+      "Designer": "Designer"
+    }
+  },
+  "LanguageSwitch": {
+    "english": "English",
+    "tamil": "Tamil"
+  }
+}
